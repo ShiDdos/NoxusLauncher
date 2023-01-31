@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoxusLauncher", "NoxusLauncher\NoxusLauncher.csproj", "{0B8A0E06-EB45-46B8-9161-C3AFB6962720}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NoxusLauncherSetup", "NoxusLauncherSetup\NoxusLauncherSetup.vdproj", "{A22C63BF-9A8B-45A4-ACBA-AEEDAD0DB055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8A0E06-EB45-46B8-9161-C3AFB6962720}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8A0E06-EB45-46B8-9161-C3AFB6962720}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0B8A0E06-EB45-46B8-9161-C3AFB6962720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8A0E06-EB45-46B8-9161-C3AFB6962720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22C63BF-9A8B-45A4-ACBA-AEEDAD0DB055}.Debug|Any CPU.ActiveCfg = Release
+		{A22C63BF-9A8B-45A4-ACBA-AEEDAD0DB055}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE3AC8CA-D5A0-4707-854E-2D640AD89050}
+	EndGlobalSection
+EndGlobal
